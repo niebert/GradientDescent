@@ -9,3 +9,5 @@ Das gegenwärtige Repository enthält Beispieldateien für das Gradientenabstieg
 * XLS Excel (von LibreOffice in das kommerzielle MS-Excel exportiert)
 * [Deutschsprachige Wikiversity-Inhalte](https://de.wikiversity.org/wiki/Gradientenabstiegsverfahren)
 
+## KnitR for Education
+This learning repository is used in the context of Machine Learning with the repository [knitr4education](https://www.github.com/niebert/knitr4education) URL: https://www.github.com/niebert/knitr4education   

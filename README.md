@@ -1,5 +1,7 @@
 # GradientDescent
-The repository contains files that show examples for the [Gradient Descent Algorithm used in Wikiversity](https://de.wikiversity.org/wiki/Gradientenabstiegsverfahren).
+* The repository contains files that show examples for the [Gradient Descent Algorithm used in Wikiversity](https://de.wikiversity.org/wiki/Gradientenabstiegsverfahren).
+* Diese Repositorium enthält Demodateien mit Tabellenkalkulation für [Gradientenabstiegsverfahren in Wikiversity](https://de.wikiversity.org/wiki/Gradientenabstiegsverfahren)
+
 
 ## German/Deutsch 
 Das gegenwärtige Repository enthält Beispieldateien für das Gradientenabstiegsverfahren mit deutschen Erläuterungen in den Formaten
